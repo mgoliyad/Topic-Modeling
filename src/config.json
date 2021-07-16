@@ -1,0 +1,11 @@
+{
+    "topic_modeling": {
+        "min_k": 2,
+        "max_k": 10,
+        "chunksize": 2000,
+        "passes": 20,
+        "iterations": 400,
+        "eval_every": "None",
+        "min_text_length": 10
+      }
+}
